@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Large pickle files
+*.pkl
+*.pickle
+
+# Datasets
+dataset/
+*.csv
+
+# ML/Data files
+anaconda_projects/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+*.egg-info/
