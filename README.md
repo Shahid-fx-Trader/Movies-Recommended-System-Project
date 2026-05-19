@@ -7,10 +7,11 @@ An intelligent movie recommendation engine built with machine learning. Select a
 Check out the live demo of the recommender system in action:
 
 <div align="center">
-  <a href="https://youtu.be/U_G-ljoN_Bw">
-    <img src="https://youtu.be/U_G-ljoN_Bw" alt="Movie Recommender Demo" width="600"/>
+  <a href="https://youtu.be/U_G-ljoN_Bw?si=64yPhlXoP6HvLXuY">
+    <img src="https://img.youtube.com/vi/https://youtu.be/U_G-ljoN_Bw?si=64yPhlXoP6HvLXuY/maxresdefault.jpg" alt="Movie Recommender Demo" width="600"/>
   </a>
 </div>
+
 
 **[Watch the full demo on YouTube](https://youtu.be/your-video-link)** - See how the system analyzes your favorite movie and generates personalized recommendations in real-time.
 
